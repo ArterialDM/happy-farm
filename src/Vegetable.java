@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.lang.Thread;
-public class vegetable implements Runnable {
+public class Vegetable implements Runnable {
 
     JButton myButton;
     Score myScore;
