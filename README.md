@@ -39,7 +39,7 @@ JAVA大作业
 
 * os：Mac OS Sierra 10.12.6  
 - jdk：9.0
-* IDE：IntelliJ IDEA Community  
+* IDE：IntelliJ IDEA Community 2017.3 
 
 ### 基本原理或技术
 
